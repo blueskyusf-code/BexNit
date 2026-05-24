@@ -450,7 +450,7 @@ private static void sfload() {
             clear();
         }
         else if (message.equalsIgnoreCase("/i")) {
-            System.out.println("q-que?")
+            System.out.println("q-que?");
         }
         else if (message.toLowerCase().contains("acorda d*sgraça")) {
             String[] resposta = {
